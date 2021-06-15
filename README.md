@@ -1,7 +1,8 @@
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvborges/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@coddei.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@coddei.com)
 [![Discord](https://img.shields.io/badge/Coddei-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/KNkqkQV)
+[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=@azanbertre&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/azanbertre)
 
 ### OS
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
