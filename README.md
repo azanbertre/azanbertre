@@ -8,7 +8,7 @@ azanbertre = {
   code: ['Python', 'Javascript'],
   tech: {
     front: {
-      js: ['Vue',
+      js: ['Vue'],
       css: ['vuetify']
     },
     back: {
